@@ -1,0 +1,27 @@
+# Visual Studio / MFC local files
+.vs/
+**/.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.aps
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch/
+*.tlog
+*.exe
+
+# Web version is intentionally excluded for this upload
+web/
+
+# Netlify local cache
+.netlify/
+
+# Large archives
+MyPhotoshop.rar
