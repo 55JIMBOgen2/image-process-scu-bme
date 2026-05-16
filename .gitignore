@@ -20,8 +20,10 @@ x64/
 # Web version is intentionally excluded for this upload
 web/
 
-# Netlify local cache
+# Netlify web deployment files
 .netlify/
+.netlifyignore
+netlify.toml
 
 # Large archives
 MyPhotoshop.rar
